@@ -32,6 +32,10 @@ house-price-prediction/
 3. Predict price  
    `python src/predict.py`
 
-## 📊 Results
-Random Forest achieved significantly better performance compared to baseline regression models.
+## 📊 Model Performance
+R² Score: ~0.88
+MAE: ~68K
+RMSE: ~132K
+
+These results indicate strong predictive performance for a real-world housing dataset.
 
