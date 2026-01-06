@@ -15,23 +15,15 @@ This project predicts house prices based on property features such as size, loca
 - Random Forest Regression
 - Model Evaluation (MAE, RMSE, R²)
 
-## 📂 Project Structure
-house-price-prediction/
-│
-├── data/
-├── notebooks/
-├── src/
-├── README.md
-└── requirements.txt
-
 ## ▶️ How to Run
 1. Install dependencies  
    `pip install -r requirements.txt`
 2. Train model  
    `python src/train.py`
-3. Predict price  
-   `python src/predict.py`
 
 ## 📊 Results
 Random Forest achieved significantly better performance compared to baseline regression models.
-
+- MAE: 44902.60153676117
+- RMSE: 99974.06464865225
+- R2: 0.9135610922095772
+- Accuracy: 82.15%
