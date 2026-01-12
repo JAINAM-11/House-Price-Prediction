@@ -26,4 +26,5 @@ Random Forest achieved significantly better performance compared to baseline reg
 - MAE: 44902.60153676117
 - RMSE: 99974.06464865225
 - R2: 0.9135610922095772
-- Accuracy: 82.15%
+- Accuracy: ~82.15%
+
