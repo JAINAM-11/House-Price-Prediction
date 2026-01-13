@@ -41,3 +41,4 @@ if __name__ == "__main__":
     price = predict_price(sample_house)
     print("Predicted House Price:", round(price, 2))
 Commit at 2026-01-11T15:30:12.886151
+Commit at 2026-01-13T20:43:58.048558
