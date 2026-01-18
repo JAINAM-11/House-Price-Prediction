@@ -27,3 +27,4 @@ Random Forest achieved significantly better performance compared to baseline reg
 - RMSE: 99974.06464865225
 - R2: 0.9135610922095772
 - Accuracy: 82.15%
+# graph-greener-temp
